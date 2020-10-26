@@ -3,8 +3,6 @@
 This is a project for Creative design -course. Android application developed using Unity/C#.
 
 <img src = "img.jpg">
+Short video on Youtube: https://www.youtube.com/watch?v=-E8FpxiBOnk
 
-
-
-[[[/https://github.com/jpaivarinta/LoopHouse/img.jpg]]][1]
-[1]: https://www.youtube.com/watch?v=-E8FpxiBOnk
+[[[/jpaivarinta/LoopHouse/img.jpg]]](https://www.youtube.com/watch?v=-E8FpxiBOnk) 
